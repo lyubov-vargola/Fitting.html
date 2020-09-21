@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'pioneer-10-Regular';
+  src: url('pioneer-10-Regular.eot');
+  src: url('pioneer-10-Regular.eot?#') format('embedded-opentype'),
+      url('pioneer-10-Regular.woff') format('woff'),
+      url('pioneer-10-Regular.ttf') format('truetype');
+}
